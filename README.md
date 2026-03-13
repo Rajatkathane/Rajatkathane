@@ -1,7 +1,7 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)](https://Rajatkathane.io)
 <h1 align="center">Hi 👋, I'm Rajat Kathane</h1>
 <h3 align="center">A passionate Fullstack Java developer from India</h3>
-<img align = "right" alt="Coding" width = "400" src="https://cdni.iconscout.com/illustration/premium/thumb/kids-coding-class-illustration-svg-download-png-8106515.png">
+<img align = "right" alt="Coding" width = "300" src="https://cdni.iconscout.com/illustration/premium/thumb/kids-coding-class-illustration-svg-download-png-8106515.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkathane&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkathane" /> </p>
 
